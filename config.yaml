@@ -1,0 +1,6 @@
+qa:
+  host: https://useinsider.com
+staging:
+  host: https://useinsider.com
+production:
+  host: https://useinsider.com
